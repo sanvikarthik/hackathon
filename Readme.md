@@ -13,11 +13,12 @@ This project performs exploratory data analysis (EDA) on a dataset to understand
 
 ## Technologies Used
 ![Python](https://skillicons.dev/icons?i=python)
-![Pandas](https://skillicons.dev/icons?i=pandas)
-![Numpy](https://skillicons.dev/icons?i=python)
-![Matplotlib](https://skillicons.dev/icons?i=python)
-![Seaborn](https://skillicons.dev/icons?i=python)
+![pandas](https://img.icons8.com/color/48/000000/pandas.png)
+![NumPy](https://img.icons8.com/color/48/000000/numpy.png)
+![Matplotlib](https://img.icons8.com/color/48/000000/python.png)
+![Seaborn](https://img.icons8.com/color/48/000000/python.png)
 ![Jupyter](https://skillicons.dev/icons?i=jupyter)
+
 
 ## Installation
 To run this project locally, ensure you have the following libraries installed:
