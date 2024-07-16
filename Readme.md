@@ -16,8 +16,7 @@ This project performs exploratory data analysis (EDA) on a dataset to understand
 ![pandas](https://img.icons8.com/color/48/000000/pandas.png)
 ![NumPy](https://img.icons8.com/color/48/000000/numpy.png)
 ![Matplotlib](https://img.icons8.com/color/48/000000/python.png)
-![Seaborn](https://img.icons8.com/color/48/000000/python.png)
-![Jupyter](https://skillicons.dev/icons?i=jupyter)
+
 
 
 ## Installation
